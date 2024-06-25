@@ -28,7 +28,5 @@ def create_app():
     from app.auth import auth as auth_blueprint
     app.register_blueprint(auth_blueprint, url_prefix='/api')
     
-    from app.debug import debug as debug_blueprint  # Add this line
-    app.register_blueprint(debug_blueprint, url_prefix='/debug')  # Add this line
 
     return app

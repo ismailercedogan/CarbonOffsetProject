@@ -1,0 +1,301 @@
+userId,date,project,category,description,rating
+01df00f7-b65e-4ffe-b5ef-053308ce5945,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+01df00f7-b65e-4ffe-b5ef-053308ce5945,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+01df00f7-b65e-4ffe-b5ef-053308ce5945,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+0da05808-ead6-4ef5-8f8b-f10177226249,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,4
+0da05808-ead6-4ef5-8f8b-f10177226249,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+0da05808-ead6-4ef5-8f8b-f10177226249,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+10a14208-d970-48a5-922b-9e4cc751ff13,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+10a14208-d970-48a5-922b-9e4cc751ff13,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+10a14208-d970-48a5-922b-9e4cc751ff13,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+11a13478-bbf0-4a5e-bbbb-43eb633261e7,2024-03-31,Fuel Efficiency Projects,Fuel,Increase fuel efficiency in vehicles.,5
+11a13478-bbf0-4a5e-bbbb-43eb633261e7,2024-04-30,Fuel Efficiency Projects,Fuel,Increase fuel efficiency in vehicles.,4
+11a13478-bbf0-4a5e-bbbb-43eb633261e7,2024-05-31,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,4
+15ad9666-606f-454d-b1f7-7ef20cd51226,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,1
+15ad9666-606f-454d-b1f7-7ef20cd51226,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+15ad9666-606f-454d-b1f7-7ef20cd51226,2024-05-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,5
+190bf617-2257-4e16-8b5b-6ff1f61d6c91,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+190bf617-2257-4e16-8b5b-6ff1f61d6c91,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+190bf617-2257-4e16-8b5b-6ff1f61d6c91,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,3
+199b811d-6d5e-46d2-b0d5-6cab84891b9a,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+199b811d-6d5e-46d2-b0d5-6cab84891b9a,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+199b811d-6d5e-46d2-b0d5-6cab84891b9a,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+1a6f51bc-6b42-4398-8068-4db45e78c3cb,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,1
+1a6f51bc-6b42-4398-8068-4db45e78c3cb,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+1a6f51bc-6b42-4398-8068-4db45e78c3cb,2024-05-31,Educational Infrastructure,Education,Build sustainable educational facilities.,2
+1a997eb9-7614-44ab-9ed6-12a33063bedd,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+1a997eb9-7614-44ab-9ed6-12a33063bedd,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+1a997eb9-7614-44ab-9ed6-12a33063bedd,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+1e7ace51-82bf-4c27-a221-1a3e1ab1e692,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,5
+1e7ace51-82bf-4c27-a221-1a3e1ab1e692,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+1e7ace51-82bf-4c27-a221-1a3e1ab1e692,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,3
+203dd7a9-6697-49be-92a4-72837e0d3dbd,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,3
+203dd7a9-6697-49be-92a4-72837e0d3dbd,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,5
+203dd7a9-6697-49be-92a4-72837e0d3dbd,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+23c50e7d-9b8a-4465-ba01-9a9430d32b97,2024-03-31,Educational Infrastructure,Education,Build sustainable educational facilities.,4
+23c50e7d-9b8a-4465-ba01-9a9430d32b97,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+23c50e7d-9b8a-4465-ba01-9a9430d32b97,2024-05-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,4
+24ae538e-c26b-400b-a69b-468f73907317,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,2
+24ae538e-c26b-400b-a69b-468f73907317,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,2
+24ae538e-c26b-400b-a69b-468f73907317,2024-05-31,Educational Infrastructure,Education,Build sustainable educational facilities.,5
+25b4e417-63fc-4ed9-9813-71bfbbd3e83b,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,5
+25b4e417-63fc-4ed9-9813-71bfbbd3e83b,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,4
+25b4e417-63fc-4ed9-9813-71bfbbd3e83b,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,4
+27553bb1-3c26-4253-be01-74786b43ef62,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+27553bb1-3c26-4253-be01-74786b43ef62,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,3
+27553bb1-3c26-4253-be01-74786b43ef62,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+28eeb762-9a2e-4bb1-839e-f07c677f149d,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,2
+28eeb762-9a2e-4bb1-839e-f07c677f149d,2024-04-30,Educational Infrastructure,Education,Build sustainable educational facilities.,5
+28eeb762-9a2e-4bb1-839e-f07c677f149d,2024-05-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,1
+29daf059-d1a8-4f3f-affe-8f9cb79beb42,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+29daf059-d1a8-4f3f-affe-8f9cb79beb42,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,5
+29daf059-d1a8-4f3f-affe-8f9cb79beb42,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+2f267f56-10c4-4098-9bdf-1f79937e51ee,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,3
+2f267f56-10c4-4098-9bdf-1f79937e51ee,2024-04-30,Educational Infrastructure,Education,Build sustainable educational facilities.,2
+2f267f56-10c4-4098-9bdf-1f79937e51ee,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+480d2687-6c2a-461a-b7f5-1a2b7b634cd1,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+480d2687-6c2a-461a-b7f5-1a2b7b634cd1,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,5
+480d2687-6c2a-461a-b7f5-1a2b7b634cd1,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+4821d82c-13b9-4dfd-9863-65a8cc737c46,2024-03-31,Educational Infrastructure,Education,Build sustainable educational facilities.,2
+4821d82c-13b9-4dfd-9863-65a8cc737c46,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+4821d82c-13b9-4dfd-9863-65a8cc737c46,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+48838400-025b-479f-9719-f3e0e6ff3c83,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+48838400-025b-479f-9719-f3e0e6ff3c83,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,5
+48838400-025b-479f-9719-f3e0e6ff3c83,2024-05-31,Educational Infrastructure,Education,Build sustainable educational facilities.,5
+49e30fd4-9e9a-41a1-8c83-b9024037dbf4,2024-03-31,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,3
+49e30fd4-9e9a-41a1-8c83-b9024037dbf4,2024-04-30,Fuel Efficiency Projects,Fuel,Increase fuel efficiency in vehicles.,4
+49e30fd4-9e9a-41a1-8c83-b9024037dbf4,2024-05-31,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,4
+4de80161-696c-420f-91f8-e9e0c0437cc5,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+4de80161-696c-420f-91f8-e9e0c0437cc5,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,3
+4de80161-696c-420f-91f8-e9e0c0437cc5,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+4edce58d-cdec-44c8-9070-502b5c055e4d,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,4
+4edce58d-cdec-44c8-9070-502b5c055e4d,2024-04-30,Educational Infrastructure,Education,Build sustainable educational facilities.,4
+4edce58d-cdec-44c8-9070-502b5c055e4d,2024-05-31,Educational Infrastructure,Education,Build sustainable educational facilities.,1
+4f89ab88-41dd-4e52-9515-8cd1521fc5ac,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,3
+4f89ab88-41dd-4e52-9515-8cd1521fc5ac,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+4f89ab88-41dd-4e52-9515-8cd1521fc5ac,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+5365331c-8b69-4b4c-b34f-28e63bbc8290,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+5365331c-8b69-4b4c-b34f-28e63bbc8290,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,3
+5365331c-8b69-4b4c-b34f-28e63bbc8290,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+540b8857-033d-4891-aed4-4bb01e8e7f1a,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+540b8857-033d-4891-aed4-4bb01e8e7f1a,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+540b8857-033d-4891-aed4-4bb01e8e7f1a,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,3
+54df58db-4214-4af6-bb12-bade7cf6c82b,2024-03-31,Educational Infrastructure,Education,Build sustainable educational facilities.,4
+54df58db-4214-4af6-bb12-bade7cf6c82b,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,4
+54df58db-4214-4af6-bb12-bade7cf6c82b,2024-05-31,Educational Infrastructure,Education,Build sustainable educational facilities.,1
+5bb3e7c1-df75-404d-a7c0-2c0c247fecfb,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+5bb3e7c1-df75-404d-a7c0-2c0c247fecfb,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+5bb3e7c1-df75-404d-a7c0-2c0c247fecfb,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+63a0774a-3a59-40e6-96b2-0c1a3c75ab7e,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+63a0774a-3a59-40e6-96b2-0c1a3c75ab7e,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+63a0774a-3a59-40e6-96b2-0c1a3c75ab7e,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+641ac218-1ae6-4082-ba2b-054bf4ea74bb,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+641ac218-1ae6-4082-ba2b-054bf4ea74bb,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,3
+641ac218-1ae6-4082-ba2b-054bf4ea74bb,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+64697daa-8e84-4a40-b2c5-e21a375695e7,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+64697daa-8e84-4a40-b2c5-e21a375695e7,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+64697daa-8e84-4a40-b2c5-e21a375695e7,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+6d42c294-f724-4171-a90c-6c79d0ffeb8e,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+6d42c294-f724-4171-a90c-6c79d0ffeb8e,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,4
+6d42c294-f724-4171-a90c-6c79d0ffeb8e,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+6d954107-88bd-4a90-bc12-0398a912c781,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,5
+6d954107-88bd-4a90-bc12-0398a912c781,2024-04-30,Educational Infrastructure,Education,Build sustainable educational facilities.,2
+6d954107-88bd-4a90-bc12-0398a912c781,2024-05-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,4
+71e75605-24a5-4fdd-ad1f-009af10e09f1,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+71e75605-24a5-4fdd-ad1f-009af10e09f1,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+71e75605-24a5-4fdd-ad1f-009af10e09f1,2024-05-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,1
+72d16477-1264-43a4-8094-63fed2209da8,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+72d16477-1264-43a4-8094-63fed2209da8,2024-04-30,Educational Infrastructure,Education,Build sustainable educational facilities.,2
+72d16477-1264-43a4-8094-63fed2209da8,2024-05-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,2
+75f14141-eb66-40a0-89f3-739c1d3fc0b7,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+75f14141-eb66-40a0-89f3-739c1d3fc0b7,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+75f14141-eb66-40a0-89f3-739c1d3fc0b7,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+76b71b42-4424-4ad4-850d-de99264c83f7,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+76b71b42-4424-4ad4-850d-de99264c83f7,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,5
+76b71b42-4424-4ad4-850d-de99264c83f7,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+78cb86d9-0a96-4d4d-8365-8a90e3ba370b,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+78cb86d9-0a96-4d4d-8365-8a90e3ba370b,2024-04-30,Educational Infrastructure,Education,Build sustainable educational facilities.,4
+78cb86d9-0a96-4d4d-8365-8a90e3ba370b,2024-05-31,Educational Infrastructure,Education,Build sustainable educational facilities.,1
+7bdf5b0c-802c-4fa3-99ea-2aeda74a35f8,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+7bdf5b0c-802c-4fa3-99ea-2aeda74a35f8,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+7bdf5b0c-802c-4fa3-99ea-2aeda74a35f8,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,3
+7e9b5614-56ff-4080-aba8-b45504f48ef8,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+7e9b5614-56ff-4080-aba8-b45504f48ef8,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+7e9b5614-56ff-4080-aba8-b45504f48ef8,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,5
+7f34979a-e6ac-48d4-9fe2-388b82f0d8b0,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,3
+7f34979a-e6ac-48d4-9fe2-388b82f0d8b0,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+7f34979a-e6ac-48d4-9fe2-388b82f0d8b0,2024-05-31,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,5
+819262a7-6b2e-4d9e-a52d-08859f44bb5a,2024-03-31,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,2
+819262a7-6b2e-4d9e-a52d-08859f44bb5a,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+819262a7-6b2e-4d9e-a52d-08859f44bb5a,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,3
+843548a6-63f3-4022-8271-0671b296415c,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+843548a6-63f3-4022-8271-0671b296415c,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+843548a6-63f3-4022-8271-0671b296415c,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+8724e53a-076d-4c3e-848c-8eff1e45c793,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+8724e53a-076d-4c3e-848c-8eff1e45c793,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,5
+8724e53a-076d-4c3e-848c-8eff1e45c793,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+88dc95ea-52e0-402b-839b-e5da5c0579cd,2024-03-31,Educational Infrastructure,Education,Build sustainable educational facilities.,5
+88dc95ea-52e0-402b-839b-e5da5c0579cd,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,1
+88dc95ea-52e0-402b-839b-e5da5c0579cd,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+8a1e3248-c543-443a-bf35-3c176eca895b,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,2
+8a1e3248-c543-443a-bf35-3c176eca895b,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,5
+8a1e3248-c543-443a-bf35-3c176eca895b,2024-05-31,Educational Infrastructure,Education,Build sustainable educational facilities.,4
+8d4be65e-3106-4c8e-9aa9-a1a7a82b1284,2024-03-31,Educational Infrastructure,Education,Build sustainable educational facilities.,4
+8d4be65e-3106-4c8e-9aa9-a1a7a82b1284,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+8d4be65e-3106-4c8e-9aa9-a1a7a82b1284,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,4
+8f2aa154-4c0c-4b81-925f-1b4b1f06dc64,2024-03-31,Educational Infrastructure,Education,Build sustainable educational facilities.,1
+8f2aa154-4c0c-4b81-925f-1b4b1f06dc64,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+8f2aa154-4c0c-4b81-925f-1b4b1f06dc64,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+91616899-f0ed-414e-84f1-59942ebef6d0,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+91616899-f0ed-414e-84f1-59942ebef6d0,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+91616899-f0ed-414e-84f1-59942ebef6d0,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+9276e444-a1d0-40fc-b311-090bb74ae119,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+9276e444-a1d0-40fc-b311-090bb74ae119,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+9276e444-a1d0-40fc-b311-090bb74ae119,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+93f18b1f-5949-4ac0-af8b-6a52ea213a6f,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,3
+93f18b1f-5949-4ac0-af8b-6a52ea213a6f,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+93f18b1f-5949-4ac0-af8b-6a52ea213a6f,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+96076ca5-64e0-4bb7-9d7d-a567253ed97d,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+96076ca5-64e0-4bb7-9d7d-a567253ed97d,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,5
+96076ca5-64e0-4bb7-9d7d-a567253ed97d,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+98365a56-0a8a-457e-9734-ae934fd05d45,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,3
+98365a56-0a8a-457e-9734-ae934fd05d45,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+98365a56-0a8a-457e-9734-ae934fd05d45,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+99d880b1-34a3-4fa8-9a60-6a5cdcae16f2,2024-03-31,Educational Infrastructure,Education,Build sustainable educational facilities.,2
+99d880b1-34a3-4fa8-9a60-6a5cdcae16f2,2024-04-30,Educational Infrastructure,Education,Build sustainable educational facilities.,1
+99d880b1-34a3-4fa8-9a60-6a5cdcae16f2,2024-05-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,4
+9a8e3792-d7ca-4a85-a5b5-c0bc459ce937,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+9a8e3792-d7ca-4a85-a5b5-c0bc459ce937,2024-04-30,Educational Infrastructure,Education,Build sustainable educational facilities.,2
+9a8e3792-d7ca-4a85-a5b5-c0bc459ce937,2024-05-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,4
+a03c85b9-2084-42b0-91fb-5c90328ec95a,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,2
+a03c85b9-2084-42b0-91fb-5c90328ec95a,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+a03c85b9-2084-42b0-91fb-5c90328ec95a,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+a06f6980-0dbb-4ebd-ba80-8c13e63ccbfe,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,3
+a06f6980-0dbb-4ebd-ba80-8c13e63ccbfe,2024-04-30,Educational Infrastructure,Education,Build sustainable educational facilities.,4
+a06f6980-0dbb-4ebd-ba80-8c13e63ccbfe,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+a12bcf55-8760-4094-9189-3f1245cbdf19,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+a12bcf55-8760-4094-9189-3f1245cbdf19,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,5
+a12bcf55-8760-4094-9189-3f1245cbdf19,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+a1786f0a-177e-4fbd-b25b-54f6d8f3f033,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+a1786f0a-177e-4fbd-b25b-54f6d8f3f033,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+a1786f0a-177e-4fbd-b25b-54f6d8f3f033,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+a32af935-612d-4cee-8f4b-7b24594cea6f,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+a32af935-612d-4cee-8f4b-7b24594cea6f,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+a32af935-612d-4cee-8f4b-7b24594cea6f,2024-05-31,Solar/Wind Energy,Entertainment,Install solar panels and wind turbines.,1
+a70a08b7-3ece-4124-801b-7b9a9cc92190,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+a70a08b7-3ece-4124-801b-7b9a9cc92190,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+a70a08b7-3ece-4124-801b-7b9a9cc92190,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+aef1673f-a395-4176-9e8d-2b007505472d,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,3
+aef1673f-a395-4176-9e8d-2b007505472d,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+aef1673f-a395-4176-9e8d-2b007505472d,2024-05-31,Educational Infrastructure,Education,Build sustainable educational facilities.,1
+af4b6e4d-1a08-430d-ab77-2480f410db51,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,3
+af4b6e4d-1a08-430d-ab77-2480f410db51,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,5
+af4b6e4d-1a08-430d-ab77-2480f410db51,2024-05-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,1
+b05566ac-2b5c-4dca-9af2-1d7324c80c0b,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+b05566ac-2b5c-4dca-9af2-1d7324c80c0b,2024-04-30,Fuel Efficiency Projects,Fuel,Increase fuel efficiency in vehicles.,4
+b05566ac-2b5c-4dca-9af2-1d7324c80c0b,2024-05-31,Methane Capture from Livestock,Fuel,Capture and destroy methane from livestock manure.,2
+b210b8fe-ed7a-44d5-a6d2-9c7435df5e0d,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+b210b8fe-ed7a-44d5-a6d2-9c7435df5e0d,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+b210b8fe-ed7a-44d5-a6d2-9c7435df5e0d,2024-05-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,1
+b22f4bd3-2788-4794-b56a-54eb4a760b6c,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,5
+b22f4bd3-2788-4794-b56a-54eb4a760b6c,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+b22f4bd3-2788-4794-b56a-54eb4a760b6c,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+b2473b6d-363e-4886-82f1-2ad40f9eb73c,2024-03-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,4
+b2473b6d-363e-4886-82f1-2ad40f9eb73c,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,4
+b2473b6d-363e-4886-82f1-2ad40f9eb73c,2024-05-31,Educational Infrastructure,Education,Build sustainable educational facilities.,2
+b3e8ef0b-3748-4e0e-97cf-5e2d3a68ad6c,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+b3e8ef0b-3748-4e0e-97cf-5e2d3a68ad6c,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+b3e8ef0b-3748-4e0e-97cf-5e2d3a68ad6c,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,3
+b6519475-936b-4e41-8a61-1fc232b0d440,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+b6519475-936b-4e41-8a61-1fc232b0d440,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+b6519475-936b-4e41-8a61-1fc232b0d440,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,5
+b7f9baf0-2f1a-41ba-80c3-6463669b5e38,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+b7f9baf0-2f1a-41ba-80c3-6463669b5e38,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+b7f9baf0-2f1a-41ba-80c3-6463669b5e38,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+b86e293e-1b67-44ea-b8cc-6a02a55b8fae,2024-03-31,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,4
+b86e293e-1b67-44ea-b8cc-6a02a55b8fae,2024-04-30,Fuel Efficiency Projects,Fuel,Increase fuel efficiency in vehicles.,3
+b86e293e-1b67-44ea-b8cc-6a02a55b8fae,2024-05-31,Fuel Efficiency Projects,Fuel,Increase fuel efficiency in vehicles.,3
+b897f93e-6d4e-4ebe-910b-bfedf89d211a,2024-03-31,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,4
+b897f93e-6d4e-4ebe-910b-bfedf89d211a,2024-04-30,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,3
+b897f93e-6d4e-4ebe-910b-bfedf89d211a,2024-05-31,Methane Capture from Livestock,Fuel,Capture and destroy methane from livestock manure.,2
+b899fc6d-0048-46a5-b696-d6b43f246128,2024-03-31,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,5
+b899fc6d-0048-46a5-b696-d6b43f246128,2024-04-30,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,2
+b899fc6d-0048-46a5-b696-d6b43f246128,2024-05-31,Fuel Efficiency Projects,Fuel,Increase fuel efficiency in vehicles.,1
+b97c10ba-1c51-44dc-9678-5d4c57f616c1,2024-03-31,Renewable Energy Projects,Entertainment,Invest in renewable energy projects.,4
+b97c10ba-1c51-44dc-9678-5d4c57f616c1,2024-04-30,Educational Infrastructure,Education,Build sustainable educational facilities.,5
+b97c10ba-1c51-44dc-9678-5d4c57f616c1,2024-05-31,Educational Infrastructure,Education,Build sustainable educational facilities.,3
+ba6d16cc-d756-4c64-97a7-16ccf071e549,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+ba6d16cc-d756-4c64-97a7-16ccf071e549,2024-04-30,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,1
+ba6d16cc-d756-4c64-97a7-16ccf071e549,2024-05-31,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,5
+bc9c2530-33cc-4797-8291-e551e3b45127,2024-03-31,Fuel Efficiency Projects,Fuel,Increase fuel efficiency in vehicles.,3
+bc9c2530-33cc-4797-8291-e551e3b45127,2024-04-30,Methane Capture from Livestock,Fuel,Capture and destroy methane from livestock manure.,2
+bc9c2530-33cc-4797-8291-e551e3b45127,2024-05-31,Methane Capture from Livestock,Fuel,Capture and destroy methane from livestock manure.,1
+bd11ca6f-9c40-4370-b845-db3d425caa9d,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+bd11ca6f-9c40-4370-b845-db3d425caa9d,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+bd11ca6f-9c40-4370-b845-db3d425caa9d,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+c4151111-5462-4890-99c4-d1632d7b9ecd,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,3
+c4151111-5462-4890-99c4-d1632d7b9ecd,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+c4151111-5462-4890-99c4-d1632d7b9ecd,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+c5f405d7-4101-4f2e-90bc-bf04ea5b94cc,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,3
+c5f405d7-4101-4f2e-90bc-bf04ea5b94cc,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+c5f405d7-4101-4f2e-90bc-bf04ea5b94cc,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+cc3b5487-bd5b-45a1-8295-f107b8477160,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+cc3b5487-bd5b-45a1-8295-f107b8477160,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+cc3b5487-bd5b-45a1-8295-f107b8477160,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+d196581a-0e2f-430b-997c-8edf2f5c588a,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,3
+d196581a-0e2f-430b-997c-8edf2f5c588a,2024-04-30,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,1
+d196581a-0e2f-430b-997c-8edf2f5c588a,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,4
+d59114f7-9ad1-4b80-a914-28ae95815284,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+d59114f7-9ad1-4b80-a914-28ae95815284,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+d59114f7-9ad1-4b80-a914-28ae95815284,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+d7bfe098-af35-4df1-af23-cc3fe647d088,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+d7bfe098-af35-4df1-af23-cc3fe647d088,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+d7bfe098-af35-4df1-af23-cc3fe647d088,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+d9057d04-24f3-451c-b033-622711fc110b,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+d9057d04-24f3-451c-b033-622711fc110b,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+d9057d04-24f3-451c-b033-622711fc110b,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+d9d10380-6742-40a3-bfab-65956be76780,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+d9d10380-6742-40a3-bfab-65956be76780,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,3
+d9d10380-6742-40a3-bfab-65956be76780,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+dca66158-631d-4e43-8356-f43685b6fcba,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+dca66158-631d-4e43-8356-f43685b6fcba,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,3
+dca66158-631d-4e43-8356-f43685b6fcba,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+dd3a0f15-a111-4ccc-9f20-30e6cd945798,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+dd3a0f15-a111-4ccc-9f20-30e6cd945798,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,3
+dd3a0f15-a111-4ccc-9f20-30e6cd945798,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+defa5608-808f-4648-81a3-0004d4dbba91,2024-03-31,Coal Mine Methane Capture,Fuel,Capture and utilize methane from coal mines.,5
+defa5608-808f-4648-81a3-0004d4dbba91,2024-04-30,Fuel Efficiency Projects,Fuel,Increase fuel efficiency in vehicles.,2
+defa5608-808f-4648-81a3-0004d4dbba91,2024-05-31,Fuel Efficiency Projects,Fuel,Increase fuel efficiency in vehicles.,4
+e08aa982-7c30-4479-968a-3dfd2f11c62d,2024-03-31,Educational Infrastructure,Education,Build sustainable educational facilities.,2
+e08aa982-7c30-4479-968a-3dfd2f11c62d,2024-04-30,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+e08aa982-7c30-4479-968a-3dfd2f11c62d,2024-05-31,Educational Infrastructure,Education,Build sustainable educational facilities.,2
+e5442883-31e5-47b0-bf8b-d3a3977d73e3,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+e5442883-31e5-47b0-bf8b-d3a3977d73e3,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+e5442883-31e5-47b0-bf8b-d3a3977d73e3,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+e6144975-b401-45f8-9861-b73646ab90ec,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,4
+e6144975-b401-45f8-9861-b73646ab90ec,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,2
+e6144975-b401-45f8-9861-b73646ab90ec,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,4
+e77640a4-b618-4e76-984b-3a94514a7996,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+e77640a4-b618-4e76-984b-3a94514a7996,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+e77640a4-b618-4e76-984b-3a94514a7996,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+ea00a088-3782-4d9e-a64a-6eb11f69efb3,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,4
+ea00a088-3782-4d9e-a64a-6eb11f69efb3,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,5
+ea00a088-3782-4d9e-a64a-6eb11f69efb3,2024-05-31,School Energy Efficiency,Education,Improve energy efficiency in schools.,3
+ed62169b-fb43-42dd-8fc3-40106d2d6fe9,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+ed62169b-fb43-42dd-8fc3-40106d2d6fe9,2024-04-30,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+ed62169b-fb43-42dd-8fc3-40106d2d6fe9,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,1
+f00ecdfb-dbd8-42b6-882f-c39d2f6ff152,2024-03-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+f00ecdfb-dbd8-42b6-882f-c39d2f6ff152,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,1
+f00ecdfb-dbd8-42b6-882f-c39d2f6ff152,2024-05-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+f0fb2582-409e-4db9-b573-dd75faef2d8d,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,2
+f0fb2582-409e-4db9-b573-dd75faef2d8d,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,5
+f0fb2582-409e-4db9-b573-dd75faef2d8d,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+f4ecf8cc-a672-4bf9-836b-929c669174e8,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,5
+f4ecf8cc-a672-4bf9-836b-929c669174e8,2024-04-30,School Energy Efficiency,Education,Improve energy efficiency in schools.,1
+f4ecf8cc-a672-4bf9-836b-929c669174e8,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5
+f6fa7015-6656-4850-9963-a2df04baeafc,2024-03-31,Biogas from Waste,Restaurant,Produce biogas from organic waste.,1
+f6fa7015-6656-4850-9963-a2df04baeafc,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,2
+f6fa7015-6656-4850-9963-a2df04baeafc,2024-05-31,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,3
+f9d9db33-6cc2-4ccb-9c2f-191d33596843,2024-03-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,2
+f9d9db33-6cc2-4ccb-9c2f-191d33596843,2024-04-30,Efficient Cookstoves,Restaurant,Distribute efficient cookstoves to reduce fuel use and emissions.,4
+f9d9db33-6cc2-4ccb-9c2f-191d33596843,2024-05-31,Restaurant Sustainability,Restaurant,Implement sustainable practices in restaurants.,5

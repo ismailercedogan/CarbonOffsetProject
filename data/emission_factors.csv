@@ -1,0 +1,9 @@
+categoryId,categoryName,emissionFactor
+48ca03e8-7ad7-4e31-a914-ec638b09aa05,Groceries,0.0126
+530877c7-e743-478b-9985-ac2d14179c1c,Restaurant,0.0126
+88c21381-582b-4ce8-8aba-26350f819014,Public Transport,0.005
+89eb3ae5-3dd1-491a-9e24-ff88233e9abd,Fuel,0.04
+08d49244-7b1c-4a5a-8648-2811196e0463,Education,0.0045
+dc82b610-a145-4be0-9a10-3d20055a1d08,Health,0.009
+203e234e-4ef0-4b53-bab5-b4ea796ded6d,Books,0.006
+7893cd37-9116-4501-a5bc-63654e874742,Entertainment,0.0105

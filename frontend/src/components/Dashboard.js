@@ -27,15 +27,13 @@ const Dashboard = () => {
         const emissionsData = response.data;
         setEmissions(emissionsData);
 
-        // Calculate total emissions and max emission category
-        const currentMonth = new Date().toISOString().slice(0, 7); // Format: YYYY-MM
+        const currentMonth = new Date().toISOString().slice(0, 7);
         const dataForCurrentMonth = emissionsData[currentMonth] || [];
         const total = dataForCurrentMonth.reduce((sum, e) => sum + e.emission, 0);
         const maxCategory = dataForCurrentMonth.reduce((max, e) => e.emission > max.emission ? e : max, { category: '', emission: 0 });
 
         setTotalEmission(total);
         setMaxEmissionCategory(maxCategory.category ? `${maxCategory.category} (${maxCategory.emission.toFixed(2)} kg CO2)` : 'N/A');
-
       } catch (error) {
         console.error('Error fetching emissions:', error);
       }
@@ -98,7 +96,7 @@ const Dashboard = () => {
     }
   };
 
-  const currentMonth = new Date().toISOString().slice(0, 7); // Format: YYYY-MM
+  const currentMonth = new Date().toISOString().slice(0, 7);
   const dataForCurrentMonth = emissions[currentMonth] || [];
 
   const pieData = {
@@ -109,24 +107,41 @@ const Dashboard = () => {
     }],
   };
 
+  const pieOptions = {
+    plugins: {
+      legend: {
+        labels: {
+          font: {
+            size: 14
+          }
+        }
+      }
+    }
+  };
+
   return (
     <Container className="dashboard">
       <Row>
         <Col xs={12} md={6} className="order-md-1 chart-container">
-          <Pie data={pieData} />
+          <Pie data={pieData} options={pieOptions} width={400} height={400} />
         </Col>
-        <Col xs={12} md={6} className="order-md-2 emission-summary">
-          <p><strong>Total Emission:</strong> {totalEmission.toFixed(2)} kg CO2</p>
-          <p><strong>Maximum Emission Category:</strong> {maxEmissionCategory}</p>
+        <Col xs={12} md={6} className="order-md-2">
+          <div className="emission-summary">
+            <p><strong>Total Emission:</strong> {totalEmission.toFixed(2)} kg CO2</p>
+            <p><strong>Maximum Emission Category:</strong> {maxEmissionCategory}</p>
+          </div>
           {warning && <p className="warning">{warning}</p>}
-          <Button color="primary" onClick={fetchRecommendation}>Get Carbon Offset Recommendation</Button>
+          <Button color="primary" onClick={fetchRecommendation} className="button-primary">Get Carbon Offset Recommendation</Button>
           {recommendation && (
-            <div className="mt-4">
+            <div className="recommendation-details mt-4">
               <h3>Recommendation</h3>
               <p>Project: {recommendation.project}</p>
               <p>Category: {recommendation.category}</p>
               <p>Description: {recommendation.description}</p>
-              <Button color="success" onClick={handleSaveRecommendation}>Apply Recommendation</Button>
+              {recommendation.project && (
+                <img src={require(`../assets/${recommendation.project}.png`)} alt={recommendation.project} className="recommendation-image" />
+              )}
+              <Button color="success" onClick={handleSaveRecommendation} className="button-success">Apply Recommendation</Button>
             </div>
           )}
         </Col>

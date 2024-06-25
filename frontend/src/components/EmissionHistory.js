@@ -106,6 +106,9 @@ const EmissionHistory = () => {
                         <strong>Project:</strong> {rec.project}<br />
                         <strong>Category:</strong> {rec.category}<br />
                         <strong>Description:</strong> {rec.description}<br />
+                        {rec.project && (
+                          <img src={require(`../assets/${rec.project}.png`)} alt={rec.project} className="recommendation-image" />
+                        )}
                         <strong>Rating:</strong> {rec.rating || 'Not rated yet'}
                       </li>
                     ))}

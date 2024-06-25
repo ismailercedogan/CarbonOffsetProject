@@ -65,14 +65,14 @@ const Expenses = () => {
         <Row>
           <Col md={6} className="mb-4">
             <h3>Expenses for {selectedMonth}</h3>
-            <h4>Total Expense: ${totalExpense.toFixed(2)}</h4>
+            <h4>Total Expense: {totalExpense.toFixed(2)} TL</h4>
             <Row>
               {Object.entries(expenses[selectedMonth]).map(([category, amount]) => (
                 <Col xs="12" md="6" key={category} className="mb-3">
                   <Card>
                     <CardBody>
                       <CardTitle tag="h5">{category}</CardTitle>
-                      <p>Amount: ${amount}</p>
+                      <p>Amount: {amount} TL</p>
                     </CardBody>
                   </Card>
                 </Col>

@@ -1,0 +1,49 @@
+
+.expenses {
+    padding: 20px;
+  }
+  
+  .expenses h2 {
+    margin-bottom: 20px;
+  }
+  
+  .expenses h4 {
+    margin-bottom: 20px;
+    color: #2c3e50;
+  }
+  
+  .chart-container {
+    width: 100%;
+    height: 400px;
+  }
+  
+  .expenses .btn {
+    margin: 5px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .card-title {
+    font-size: 1.2em;
+  }
+  
+  @media (max-width: 768px) {
+    .chart-container {
+      height: 300px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .chart-container {
+      height: 200px;
+    }
+  }
+  

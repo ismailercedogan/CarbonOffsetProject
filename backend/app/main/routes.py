@@ -50,7 +50,8 @@ def calculate_emissions():
 
     return jsonify(emissions_data), 200
 
-
+model = joblib.load('models/offset_recommendation_model.pkl')
+user_project_matrix = joblib.load('models/user_project_matrix.pkl')
 
 @main.route('/recommend-offset', methods=['GET'])
 @jwt_required()
@@ -63,12 +64,16 @@ def recommend_offset():
     
     if existing_recommendation:
         return jsonify({"msg": "You have already chosen an offset project for this month."}), 409
+    
+    try:
+        user_index = user_project_matrix.index.get_loc(user_id)
+    except KeyError:
+        return jsonify({"msg": "User not found in the recommendation matrix."}), 404
 
-    model = joblib.load('models/offset_recommendation_model.pkl')
-    user_project_matrix = joblib.load('models/user_project_matrix.pkl')
-
-    user_index = user_project_matrix.index.get_loc(user_id)
     distances, indices = model.kneighbors(user_project_matrix.iloc[user_index, :].values.reshape(1, -1), n_neighbors=2)
+    
+    if len(indices[0]) < 2:
+        return jsonify({"msg": "Not enough similar users found for recommendations."}), 404
 
     similar_user_index = indices[0][1]
     similar_user_id = user_project_matrix.index[similar_user_index]
@@ -79,6 +84,9 @@ def recommend_offset():
 
     recommended_project = recommendations[0]  # Take the first recommendation for simplicity
     project_details = ProjectDetails.query.filter_by(projectName=recommended_project.project).first()
+
+    if not project_details:
+        return jsonify({"msg": "Project details not found."}), 404
 
     return jsonify({
         "userId": user_id,

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Pie } from 'react-chartjs-2';
 import { Chart, ArcElement, Tooltip, Legend } from 'chart.js';
+import { Container, Row, Col } from 'reactstrap';
 import '../EmissionHistory.css';
 
 Chart.register(ArcElement, Tooltip, Legend);
@@ -67,7 +68,7 @@ const EmissionHistory = () => {
   }, []);
 
   return (
-    <div className="emission-history">
+    <Container className="emission-history">
       <h2>Monthly Recommendations and Emissions</h2>
       {data.map(([month, { recommendations, emissions }]) => {
         const pieData = {
@@ -84,38 +85,40 @@ const EmissionHistory = () => {
         return (
           <div key={month} className="month-section">
             <h3>{month}</h3>
-            <div className="recommendations">
-              <h4>Recommendation</h4>
-              {recommendations.length > 0 ? (
-                <ul>
-                  {recommendations.map((rec, index) => (
-                    <li key={index}>
-                      <strong>Date:</strong> {rec.date}<br />
-                      <strong>Project:</strong> {rec.project}<br />
-                      <strong>Category:</strong> {rec.category}<br />
-                      <strong>Description:</strong> {rec.description}<br />
-                      <strong>Rating:</strong> {rec.rating || 'Not rated yet'}
-                    </li>
-                  ))}
-                </ul>
-              ) : (
-                <p>No recommendations found.</p>
-              )}
-            </div>
-            <div className="emissions">
-              <h4>Emissions</h4>
-              <div className="chart-container">
-                <Pie data={pieData} />
-              </div>
-              <div className="emission-summary">
-                <p><strong>Total Emission:</strong> {totalEmission.toFixed(2)} kg CO2</p>
-                <p><strong>Maximum Emission Category:</strong> {maxCategory.category ? `${maxCategory.category} (${maxCategory.emission.toFixed(2)} kg CO2)` : 'N/A'}</p>
-              </div>
-            </div>
+            <Row>
+              <Col xs={12} md={6}>
+                <h4>Emissions</h4>
+                <div className="chart-container">
+                  <Pie data={pieData} />
+                </div>
+                <div className="emission-summary">
+                  <p><strong>Total Emission:</strong> {totalEmission.toFixed(2)} kg CO2</p>
+                  <p><strong>Maximum Emission Category:</strong> {maxCategory.category ? `${maxCategory.category} (${maxCategory.emission.toFixed(2)} kg CO2)` : 'N/A'}</p>
+                </div>
+              </Col>
+              <Col xs={12} md={6}>
+                <h4>Recommendation</h4>
+                {recommendations.length > 0 ? (
+                  <ul>
+                    {recommendations.map((rec, index) => (
+                      <li key={index}>
+                        <strong>Date:</strong> {rec.date}<br />
+                        <strong>Project:</strong> {rec.project}<br />
+                        <strong>Category:</strong> {rec.category}<br />
+                        <strong>Description:</strong> {rec.description}<br />
+                        <strong>Rating:</strong> {rec.rating || 'Not rated yet'}
+                      </li>
+                    ))}
+                  </ul>
+                ) : (
+                  <p>No recommendations found.</p>
+                )}
+              </Col>
+            </Row>
           </div>
         );
       })}
-    </div>
+    </Container>
   );
 };
 

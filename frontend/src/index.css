@@ -11,3 +11,70 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  padding: 20px;
+}
+
+button {
+  margin: 5px;
+}
+
+.warning {
+  color: red;
+}
+
+.chart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  width: 50%;
+  height: 50%;
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.emission-summary {
+  margin-top: 20px;
+}
+
+.login-form {
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.emission-history {
+  padding: 20px;
+}
+
+.month-section {
+  margin-bottom: 40px;
+}
+
+.recommendations, .emissions {
+  width: 48%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.chart-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.emission-summary {
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}

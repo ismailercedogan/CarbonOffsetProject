@@ -1,0 +1,33 @@
+.navbar {
+    margin-bottom: 20px;
+  }
+  
+  .navbar .nav-link {
+    cursor: pointer;
+  }
+  
+  .navbar .nav-link:hover {
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 768px) {
+    .navbar-nav {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .navbar-nav .nav-item {
+      margin-bottom: 10px;
+    }
+  }
+  @media (max-width: 480px) {
+    .navbar-nav {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .navbar-nav .nav-item {
+      margin-bottom: 10px;
+    }
+  }
+  

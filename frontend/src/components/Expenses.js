@@ -29,7 +29,7 @@ const Expenses = () => {
   return (
     <div className="expenses">
       <h2>Expenses</h2>
-      <div>
+      <div className="month-buttons">
         {Object.keys(expenses).map((month) => (
           <button key={month} onClick={() => handleMonthClick(month)}>
             {month}
@@ -37,7 +37,7 @@ const Expenses = () => {
         ))}
       </div>
       {selectedMonth && (
-        <div>
+        <div className="expense-details">
           <h3>Expenses for {selectedMonth}</h3>
           <ul>
             {Object.entries(expenses[selectedMonth]).map(([category, amount]) => (

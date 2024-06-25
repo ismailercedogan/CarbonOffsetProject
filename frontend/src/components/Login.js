@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import { Form, FormGroup, Label, Input, Button } from 'reactstrap';
+import '../Login.css';
 
 const Login = () => {
   const [email, setEmail] = useState('');

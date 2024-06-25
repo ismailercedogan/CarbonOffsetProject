@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Pie } from 'react-chartjs-2';
 import { Chart, ArcElement, Tooltip, Legend } from 'chart.js';
-import { Button, Modal, ModalHeader, ModalBody, ModalFooter, Form, FormGroup, Label, Input } from 'reactstrap';
+import { Button, Modal, ModalHeader, ModalBody, ModalFooter, Form, FormGroup, Label, Input, Container, Row, Col } from 'reactstrap';
 import '../App.css';
 
 Chart.register(ArcElement, Tooltip, Legend);
@@ -110,23 +110,27 @@ const Dashboard = () => {
   };
 
   return (
-    <div className="dashboard">
-      <Pie data={pieData} />
-      <div className="emission-summary">
-        <p><strong>Total Emission:</strong> {totalEmission.toFixed(2)} kg CO2</p>
-        <p><strong>Maximum Emission Category:</strong> {maxEmissionCategory}</p>
-      </div>
-      {warning && <p className="warning">{warning}</p>}
-      <Button color="primary" onClick={fetchRecommendation}>Get Carbon Offset Recommendation</Button>
-      {recommendation && (
-        <div>
-          <h3>Recommendation</h3>
-          <p>Project: {recommendation.project}</p>
-          <p>Category: {recommendation.category}</p>
-          <p>Description: {recommendation.description}</p>
-          <Button color="success" onClick={handleSaveRecommendation}>Apply Recommendation</Button>
-        </div>
-      )}
+    <Container className="dashboard">
+      <Row>
+        <Col xs={12} md={6} className="order-md-1 chart-container">
+          <Pie data={pieData} />
+        </Col>
+        <Col xs={12} md={6} className="order-md-2 emission-summary">
+          <p><strong>Total Emission:</strong> {totalEmission.toFixed(2)} kg CO2</p>
+          <p><strong>Maximum Emission Category:</strong> {maxEmissionCategory}</p>
+          {warning && <p className="warning">{warning}</p>}
+          <Button color="primary" onClick={fetchRecommendation}>Get Carbon Offset Recommendation</Button>
+          {recommendation && (
+            <div className="mt-4">
+              <h3>Recommendation</h3>
+              <p>Project: {recommendation.project}</p>
+              <p>Category: {recommendation.category}</p>
+              <p>Description: {recommendation.description}</p>
+              <Button color="success" onClick={handleSaveRecommendation}>Apply Recommendation</Button>
+            </div>
+          )}
+        </Col>
+      </Row>
       <Modal isOpen={isModalOpen} toggle={() => setIsModalOpen(!isModalOpen)}>
         <ModalHeader toggle={() => setIsModalOpen(!isModalOpen)}>Rate Recommendation</ModalHeader>
         <ModalBody>
@@ -150,7 +154,7 @@ const Dashboard = () => {
           <Button color="primary" onClick={handleRateRecommendation}>Submit Rating</Button>
         </ModalFooter>
       </Modal>
-    </div>
+    </Container>
   );
 };
 
